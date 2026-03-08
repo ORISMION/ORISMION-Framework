@@ -100,7 +100,7 @@ Read the full paper:
 >
 > Hao-Tse Hsieh (2026)
 >
-> 📄 [Read on SSRN / arXiv](link_placeholder)
+> 📄 [Zenodo (DOI)](https://doi.org/10.5281/zenodo.18911160) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6369878)
 
 ---
 
@@ -113,8 +113,9 @@ If you use or reference ORISMION in your work, please cite:
   author  = {Hsieh, Hao-Tse},
   title   = {Axiomatic Governance for Agentic {AI}: A Five-Layer Constitutional
              Framework Derived from First Principles and Validated in Production},
-  journal = {arXiv preprint},
-  year    = {2026}
+  year    = {2026},
+  doi     = {10.5281/zenodo.18911160},
+  url     = {https://doi.org/10.5281/zenodo.18911160}
 }
 ```
 
