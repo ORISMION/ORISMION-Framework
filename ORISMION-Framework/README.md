@@ -75,6 +75,8 @@ The **public layer** — everything needed to understand, evaluate, and independ
 - FATAL rule specifications with violation consequences
 - Selected Architecture Decision Records showing the derivation-in-practice methodology
 
+**Language note:** The framework documents are in Mandarin Chinese — the original working language of the production system. They are published as-is to preserve authenticity as primary source materials. The [accompanying paper](paper/README.md) provides the complete theoretical content in English.
+
 ## What This Repository Does Not Contain
 
 The **proprietary layer** — implementation-specific materials that concern execution rather than theory:
